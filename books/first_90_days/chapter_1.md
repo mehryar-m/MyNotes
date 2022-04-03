@@ -6,13 +6,14 @@
 
 ### Transition trap
 
-Here are a set of transition traps that can put getting to the break-even point in jeopardy: 
-	1. **Sticking to what you know** : This essentially means that you are doing the same thing as what made you successful as the previous job. Usually, you need to change the way you are working and adjust your approach to be useful in this new setting. 
-	2. **Trying to take action right away**: Often you think that you need to take action right away to be impactful but if you do that before you have full context and have learned as much as you can, then you could make poor decisions which can cause you to lose credibility etc. 
-	3. **Unrealistic expections**: Trying to overpromise how much you can accomplish. IT's important to negitation expectations early to make sure achieve your objectives. 
-	4. **Coming in with the "answer"**: Thinking you already know what you want to do etc. Every situation is going to have a different context and you need to adjust to the situation. Coming in with "answers" already is most likely not useful and potentially can alienate your new coworkers. 
-	5. **Not learning in a holistic way**: Focusing too much on learning only technical aspects of the job and not trying to gain an appreciation of culture and politics. 
-	6. **Not building lateral relations and only focusing on leadership and reports**: Inevitably you need to have advocates when you are trying to build relationships, so it is important to build a good repertoire with your peers, so they can advocate for you. 
+Here are a set of transition traps that can put getting to the break-even point in jeopardy:
+
+1. **Sticking to what you know** : This essentially means that you are doing the same thing as what made you successful as the previous job. Usually, you need to change the way you are working and adjust your approach to be useful in this new setting. 
+2.  **Trying to take action right away**: Often you think that you need to take action right away to be impactful but if you do that before you have full context and have learned as much as you can, then you could make poor decisions which can cause you to lose credibility etc. 
+3. **Unrealistic expections**: Trying to overpromise how much you can accomplish. IT's important to negitation expectations early to make sure achieve your objectives. 
+4. **Coming in with the "answer"**: Thinking you already know what you want to do etc. Every situation is going to have a different context and you need to adjust to the situation. Coming in with "answers" already is most likely not useful and potentially can alienate your new coworkers. 
+5. **Not learning in a holistic way**: Focusing too much on learning only technical aspects of the job and not trying to gain an appreciation of culture and politics. 
+6. **Not building lateral relations and only focusing on leadership and reports**: Inevitably you need to have advocates when you are trying to build relationships, so it is important to build a good repertoire with your peers, so they can advocate for you. 
 
 The trap is rooted at inadequate learning and ineffective relationship building. The rest follows to bad decisions/credibility being lost/etc. 
 
