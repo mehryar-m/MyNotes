@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "books/first_90_days/chapter_1.md",
+            "file": "books/first_90_days/Chapter_1.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/first_90_days/chapter_1.md",
+                "file": "books/first_90_days/Chapter_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,8 @@
   },
   "active": "40e0a6ef06628507",
   "lastOpenFiles": [
-    "books/first_90_days/chapter_1.md",
+    "books/first_90_days/Chapter_1.md",
+    "books/first_90_days/Introduction.md",
     "books/first_90_days/README.md",
     "README.md",
     "books/first_90_days/workinglog.md"
