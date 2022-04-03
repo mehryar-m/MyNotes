@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "b2b299b5c4a0ecee",
+    "type": "split",
+    "children": [
+      {
+        "id": "40e0a6ef06628507",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "books/first_90_days/chapter 1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46ca3f8cc36ab077",
+    "type": "split",
+    "children": [
+      {
+        "id": "64a3b8aa1c4245b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73ef547636760f95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c6b97dbc915c7df7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d8b95343cebb241c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a240fbe2c50d35d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef3260394bb6b058",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "books/first_90_days/chapter 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "40e0a6ef06628507",
+  "lastOpenFiles": [
+    "books/first_90_days/chapter 1.md",
+    "books/first_90_days/workinglog.md"
+  ]
+}
